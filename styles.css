@@ -75,6 +75,9 @@ select {
 }
 
 @media screen and (max-width: 630px) {
+  body{
+    overflow: hidden;
+  }
   .main h1 {
     font-size: 25px;
   }
